@@ -35,17 +35,17 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["UI Developer", "Web Designer", "Freelancer"],
+        strings: ["Java Developer"],
         typeSpeed: 100,
         backSpeed: 60,
-        loop: true
+        loop: false
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["UI Developer", "Web Designer", "Freelancer"],
+        strings: ["Java Developer"],
         typeSpeed: 100,
         backSpeed: 60,
-        loop: true
+        loop: false
     });
 
     // owl carousel script
